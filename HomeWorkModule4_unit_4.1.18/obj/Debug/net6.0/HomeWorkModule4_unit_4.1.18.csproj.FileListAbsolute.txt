@@ -1,0 +1,15 @@
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\bin\Debug\net6.0\HomeWorkModule4_unit_4.1.18.exe
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\bin\Debug\net6.0\HomeWorkModule4_unit_4.1.18.deps.json
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\bin\Debug\net6.0\HomeWorkModule4_unit_4.1.18.runtimeconfig.json
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\bin\Debug\net6.0\HomeWorkModule4_unit_4.1.18.dll
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\bin\Debug\net6.0\HomeWorkModule4_unit_4.1.18.pdb
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.csproj.AssemblyReference.cache
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.AssemblyInfoInputs.cache
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.AssemblyInfo.cs
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.csproj.CoreCompileInputs.cache
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.dll
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\refint\HomeWorkModule4_unit_4.1.18.dll
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.pdb
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\HomeWorkModule4_unit_4.1.18.genruntimeconfig.cache
+C:\HomeWorkModule---4\HomeWorkModule4_unit_4.1.18\obj\Debug\net6.0\ref\HomeWorkModule4_unit_4.1.18.dll
