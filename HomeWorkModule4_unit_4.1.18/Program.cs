@@ -22,8 +22,13 @@
                     Console.BackgroundColor = ConsoleColor.White;
                     Console.ForegroundColor = ConsoleColor.Cyan;
                     break;
+                case "cyan":
+                    Console.BackgroundColor = ConsoleColor.Cyan;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    break;
                 default:
-                    Console.WriteLine("Такого цвета мы не знаем, используйте дефолтные настройки консоли :)");
+                    Console.BackgroundColor = ConsoleColor.Yellow;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     break;
 
 
